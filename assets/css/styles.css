@@ -177,6 +177,8 @@ nav a:hover {
 .asterisque {
     font-style: italic;
     margin: 4rem;
+    display: flex;
+    justify-content: space-around;
 }
 
 h1 {
